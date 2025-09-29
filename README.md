@@ -157,7 +157,11 @@ flutter run
 - ✅ Linux
 
 ## 🎨 Screenshots
-*Game screens and interface design visuals*
+https://r.resimlink.com/XiLQk.jpg
+https://r.resimlink.com/apsXVC.jpg
+https://r.resimlink.com/3AgbI_.jpg
+https://r.resimlink.com/dLnSIMhYQ.jpg
+https://r.resimlink.com/1o_lgdY5.jpg
 
 ## 👨💻 Developer
 **Flutter Casino Game Developer**
@@ -168,3 +172,5 @@ flutter run
 ---
 
 **⚠️ Warning**: This application is for entertainment purposes only. No real money gambling is involved.
+
+
