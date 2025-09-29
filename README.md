@@ -158,11 +158,13 @@ flutter run
 
 ## 🎨 Screenshots
 
-![Screenshot 1](https://r.resimlink.com/XiLQk.jpg)
-![Screenshot 2](https://r.resimlink.com/apsXVC.jpg)
-![Screenshot 3](https://r.resimlink.com/3AgbI_.jpg)
-![Screenshot 4](https://r.resimlink.com/dLnSIMhYQ.jpg)
-![Screenshot 5](https://r.resimlink.com/1o_lgdY5.jpg)
+<p align="center">
+  <img src="https://r.resimlink.com/XiLQk.jpg" width="200">
+  <img src="https://r.resimlink.com/apsXVC.jpg" width="200">
+  <img src="https://r.resimlink.com/3AgbI_.jpg" width="200">
+  <img src="https://r.resimlink.com/dLnSIMhYQ.jpg" width="200">
+  <img src="https://r.resimlink.com/1o_lgdY5.jpg" width="200">
+</p>
 
 
 ## 👨💻 Developer
