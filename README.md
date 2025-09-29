@@ -157,11 +157,13 @@ flutter run
 - ✅ Linux
 
 ## 🎨 Screenshots
-https://r.resimlink.com/XiLQk.jpg
-https://r.resimlink.com/apsXVC.jpg
-https://r.resimlink.com/3AgbI_.jpg
-https://r.resimlink.com/dLnSIMhYQ.jpg
-https://r.resimlink.com/1o_lgdY5.jpg
+
+![Screenshot 1](https://r.resimlink.com/XiLQk.jpg)
+![Screenshot 2](https://r.resimlink.com/apsXVC.jpg)
+![Screenshot 3](https://r.resimlink.com/3AgbI_.jpg)
+![Screenshot 4](https://r.resimlink.com/dLnSIMhYQ.jpg)
+![Screenshot 5](https://r.resimlink.com/1o_lgdY5.jpg)
+
 
 ## 👨💻 Developer
 **Flutter Casino Game Developer**
